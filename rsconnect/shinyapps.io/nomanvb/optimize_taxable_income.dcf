@@ -1,0 +1,13 @@
+name: optimize_taxable_income
+title: optimize_taxable_income
+username:
+account: nomanvb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 182841
+bundleId: 6927146
+url: https://nomanvb.shinyapps.io/optimize_taxable_income/
+when: 1678214099.31439
+lastSyncTime: 1678214099.31441
+asMultiple: FALSE
+asStatic: FALSE
