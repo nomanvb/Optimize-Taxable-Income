@@ -1,1 +1,2 @@
-# Optimize Taxable Income
+# Optimize Taxable Income using linear optimization method 
+
